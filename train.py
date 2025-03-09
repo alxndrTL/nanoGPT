@@ -33,7 +33,7 @@ from data.distributed_data_loader import DistributedDataLoader
 # -----------------------------------------------------------------------------
 # default config values designed to train a gpt2 (124M) on OpenWebText
 # I/O
-out_dir = 'out'
+out_dir = 'logs'
 eval_interval = 125
 log_interval = 1
 eval_iters = 200

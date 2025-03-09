@@ -1,0 +1,14 @@
+{"time":"2025-03-09T18:30:59.070409926+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/logs/debug-core.log"}
+{"time":"2025-03-09T18:30:59.187349189+01:00","level":"INFO","msg":"created new stream","id":"izcemdtl"}
+{"time":"2025-03-09T18:30:59.187390482+01:00","level":"INFO","msg":"stream: started","id":"izcemdtl"}
+{"time":"2025-03-09T18:30:59.187412282+01:00","level":"INFO","msg":"handler: started","stream_id":"izcemdtl"}
+{"time":"2025-03-09T18:30:59.187414857+01:00","level":"INFO","msg":"sender: started","stream_id":"izcemdtl"}
+{"time":"2025-03-09T18:30:59.18744608+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"izcemdtl"}
+{"time":"2025-03-09T18:30:59.191514059+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T21:00:51.221430751+01:00","level":"INFO","msg":"stream: closing","id":"izcemdtl"}
+{"time":"2025-03-09T21:00:51.221572494+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T21:00:51.224367489+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T21:00:51.22451119+01:00","level":"INFO","msg":"handler: closed","stream_id":"izcemdtl"}
+{"time":"2025-03-09T21:00:51.224518904+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"izcemdtl"}
+{"time":"2025-03-09T21:00:51.224546189+01:00","level":"INFO","msg":"sender: closed","stream_id":"izcemdtl"}
+{"time":"2025-03-09T21:00:51.224741728+01:00","level":"INFO","msg":"stream: closed","id":"izcemdtl"}

@@ -1,0 +1,569 @@
+2025-03-09 20:58:17 INFO open for scan: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/run-izcemdtl.wandb
+2025-03-09 20:58:17 INFO watching files in: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files
+2025-03-09 20:58:17 INFO run started: izcemdtl with start time 1741541458.549341
+2025-03-09 20:58:17 INFO saving file wandb-metadata.json with policy now
+2025-03-09 20:58:17 INFO saving file wandb-metadata.json with policy now
+2025-03-09 20:58:17 INFO saving file requirements.txt with policy now
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:17 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO Uploaded file /scratch_local/tmpyjppawavwandb/3njagdvs-wandb-metadata.json
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:18 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 20:58:18 INFO file/dir created: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json
+2025-03-09 20:58:18 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO Uploaded file /scratch_local/tmpyjppawavwandb/bov9tcuc-wandb-metadata.json
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO saving file wandb-summary.json with policy end
+2025-03-09 20:58:19 INFO shutting down sender
+2025-03-09 20:58:19 WARNING Terminal output too large. Logging without processing.
+2025-03-09 20:58:20 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 20:58:20 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json
+2025-03-09 20:58:20 INFO shutting down directory watcher
+2025-03-09 20:58:21 INFO Uploaded file /scratch_local/tmpyjppawavwandb/ti8o6aon-requirements.txt
+2025-03-09 20:58:21 INFO scan: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files
+2025-03-09 20:58:21 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/config.yaml config.yaml
+2025-03-09 20:58:21 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json wandb-summary.json
+2025-03-09 20:58:21 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log output.log
+2025-03-09 20:58:21 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-metadata.json wandb-metadata.json
+2025-03-09 20:58:21 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/requirements.txt requirements.txt
+2025-03-09 20:58:21 INFO shutting down file pusher
+2025-03-09 20:58:21 INFO waiting for file pusher
+2025-03-09 20:58:21 INFO Uploaded file /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/config.yaml
+2025-03-09 20:58:21 INFO Uploaded file /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json
+2025-03-09 20:58:22 INFO Uploaded file /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 20:58:22 INFO file stream finish called
+2025-03-09 20:58:23 INFO file stream finish is done
+2025-03-09 21:05:48 INFO open for scan: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/run-izcemdtl.wandb
+2025-03-09 21:05:48 INFO watching files in: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files
+2025-03-09 21:05:48 INFO run started: izcemdtl with start time 1741541458.549341
+2025-03-09 21:05:48 INFO saving file wandb-metadata.json with policy now
+2025-03-09 21:05:48 INFO saving file wandb-metadata.json with policy now
+2025-03-09 21:05:48 INFO saving file requirements.txt with policy now
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:48 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO Uploaded file /scratch_local/tmpyre9ygc5wandb/96tvt4eq-wandb-metadata.json
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO Uploaded file /scratch_local/tmpyre9ygc5wandb/jtu5z3it-requirements.txt
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json
+2025-03-09 21:05:49 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO Uploaded file /scratch_local/tmpyre9ygc5wandb/b4mc0um7-wandb-metadata.json
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:49 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:05:50 INFO shutting down sender
+2025-03-09 21:05:51 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json
+2025-03-09 21:05:52 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 21:05:53 INFO shutting down directory watcher
+2025-03-09 21:05:53 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 21:05:53 INFO scan: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files
+2025-03-09 21:05:53 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/config.yaml config.yaml
+2025-03-09 21:05:53 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json wandb-summary.json
+2025-03-09 21:05:53 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log output.log
+2025-03-09 21:05:53 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-metadata.json wandb-metadata.json
+2025-03-09 21:05:53 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/requirements.txt requirements.txt
+2025-03-09 21:05:53 INFO shutting down file pusher
+2025-03-09 21:05:53 INFO waiting for file pusher
+2025-03-09 21:05:53 INFO Uploaded file /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/config.yaml
+2025-03-09 21:05:53 INFO Uploaded file /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json
+2025-03-09 21:05:54 INFO Uploaded file /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 21:05:54 INFO file stream finish called
+2025-03-09 21:05:56 INFO file stream finish is done
+2025-03-09 21:06:51 INFO open for scan: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/run-izcemdtl.wandb
+2025-03-09 21:06:51 INFO watching files in: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files
+2025-03-09 21:06:51 INFO run started: izcemdtl with start time 1741541458.549341
+2025-03-09 21:06:51 INFO saving file wandb-metadata.json with policy now
+2025-03-09 21:06:51 INFO saving file wandb-metadata.json with policy now
+2025-03-09 21:06:51 INFO saving file requirements.txt with policy now
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:51 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO Uploaded file /scratch_local/tmp3sh8h0pkwandb/zk4vsxa4-wandb-metadata.json
+2025-03-09 21:06:52 INFO Uploaded file /scratch_local/tmp3sh8h0pkwandb/a1lmdlaz-requirements.txt
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:52 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 21:06:53 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO Uploaded file /scratch_local/tmp3sh8h0pkwandb/fu45mtgy-wandb-metadata.json
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:53 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:54 INFO saving file wandb-summary.json with policy end
+2025-03-09 21:06:54 INFO shutting down sender
+2025-03-09 21:06:54 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 21:06:54 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json
+2025-03-09 21:06:56 INFO shutting down directory watcher
+2025-03-09 21:06:56 INFO file/dir modified: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 21:06:56 INFO scan: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files
+2025-03-09 21:06:56 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/config.yaml config.yaml
+2025-03-09 21:06:56 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json wandb-summary.json
+2025-03-09 21:06:56 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log output.log
+2025-03-09 21:06:56 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-metadata.json wandb-metadata.json
+2025-03-09 21:06:56 INFO scan save: /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/requirements.txt requirements.txt
+2025-03-09 21:06:56 INFO shutting down file pusher
+2025-03-09 21:06:56 INFO waiting for file pusher
+2025-03-09 21:06:56 INFO Uploaded file /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/config.yaml
+2025-03-09 21:06:56 INFO Uploaded file /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/wandb-summary.json
+2025-03-09 21:06:57 INFO Uploaded file /leonardo_work/BOOST_LCustodi/script/training/nanoGPT_karpathy_temp/wandb/offline-run-20250309_183058-izcemdtl/files/output.log
+2025-03-09 21:06:58 INFO file stream finish called
+2025-03-09 21:06:59 INFO file stream finish is done
